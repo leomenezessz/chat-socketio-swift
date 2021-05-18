@@ -1,0 +1,6 @@
+module Pods_socketio_chat {
+  umbrella header "Pods-socketio-chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
